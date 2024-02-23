@@ -1,0 +1,18 @@
+{
+  "token": {
+    "TokenLearn": {
+      "address": "0xb856A791fA140D50A958cd26Adb1868FA5a7578E"
+    },
+    "vault": {
+      "address": "0x25402E0B612238eFfAc20d07BB8c0A943ccAF71b"
+    }
+  },
+  "nft": {
+    "NFTLearn": {
+      "address": "0x248E598eaE57541Eaeb0Ea410897BAca379809c0"
+    },
+    "vault": {
+      "address": "0x28360Fed1935E166b597c66c9A7e7CB5058a10F5"
+    }
+  }
+}
